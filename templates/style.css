@@ -119,6 +119,10 @@ a {
     color: white;
 }
 
+a .ca:hover {
+	text-decoration:underline;
+}
+
 .profile-container {
   padding-top: 3em;
   display: flex;
